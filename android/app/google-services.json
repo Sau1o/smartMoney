@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969861721673",
+    "project_id": "smartmoneypro-course-37b95",
+    "storage_bucket": "smartmoneypro-course-37b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969861721673:android:cddb28a3e6def92aed9998",
+        "android_client_info": {
+          "package_name": "br.com.saulocoelho.smartmoney_curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969861721673-i7tl3otpvai6pkean6hlrv4aokt2rel0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLy17eKTTVyWPCW0B8Nt9I2hngWuZyF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969861721673-i7tl3otpvai6pkean6hlrv4aokt2rel0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
