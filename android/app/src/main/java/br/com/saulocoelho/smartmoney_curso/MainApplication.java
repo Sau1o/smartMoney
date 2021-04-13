@@ -1,4 +1,4 @@
-package com.smartmoney;
+package br.com.saulocoelho.smartmoney_curso;
 
 import android.app.Application;
 import android.util.Log;
